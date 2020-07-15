@@ -11,7 +11,6 @@ E:\curso\CSharpCompleto\ProjetoCurso\SalesWebMvc\SalesWebMvc\SalesWebMvc\bin\Deb
 E:\curso\CSharpCompleto\ProjetoCurso\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
 E:\curso\CSharpCompleto\ProjetoCurso\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
 E:\curso\CSharpCompleto\ProjetoCurso\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
-E:\curso\CSharpCompleto\ProjetoCurso\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
 E:\curso\CSharpCompleto\ProjetoCurso\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cache
 E:\curso\CSharpCompleto\ProjetoCurso\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cs
 E:\curso\CSharpCompleto\ProjetoCurso\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.TagHelpers.input.cache
@@ -34,3 +33,5 @@ E:\curso\CSharpCompleto\ProjetoCurso\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Deb
 E:\curso\CSharpCompleto\ProjetoCurso\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 E:\curso\CSharpCompleto\ProjetoCurso\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 E:\curso\CSharpCompleto\ProjetoCurso\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+E:\curso\CSharpCompleto\ProjetoCurso\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
+E:\curso\CSharpCompleto\ProjetoCurso\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
